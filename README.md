@@ -12,3 +12,5 @@ fxmanifest.lua
 
 
 put css, js, static and index to html
+
+change webhooks and download https://github.com/jaimeadf/discord-screenshot
