@@ -1,12 +1,14 @@
 # KyroZ
 K_phone
 
-format
+format=
 client
-html(file
+html(file)
 locales
 server
 8xphone.sql
 config.lua
 fxmanifest.lua
 
+
+put css, js, static and index to html
